@@ -1,0 +1,13 @@
+C:\Users\malhi\OneDrive\Documents\GitHub\Daily Student Report\Daily Student Report\bin\Debug\netcoreapp3.1\Daily Student Report.exe
+C:\Users\malhi\OneDrive\Documents\GitHub\Daily Student Report\Daily Student Report\bin\Debug\netcoreapp3.1\Daily Student Report.deps.json
+C:\Users\malhi\OneDrive\Documents\GitHub\Daily Student Report\Daily Student Report\bin\Debug\netcoreapp3.1\Daily Student Report.runtimeconfig.json
+C:\Users\malhi\OneDrive\Documents\GitHub\Daily Student Report\Daily Student Report\bin\Debug\netcoreapp3.1\Daily Student Report.runtimeconfig.dev.json
+C:\Users\malhi\OneDrive\Documents\GitHub\Daily Student Report\Daily Student Report\bin\Debug\netcoreapp3.1\Daily Student Report.dll
+C:\Users\malhi\OneDrive\Documents\GitHub\Daily Student Report\Daily Student Report\bin\Debug\netcoreapp3.1\Daily Student Report.pdb
+C:\Users\malhi\OneDrive\Documents\GitHub\Daily Student Report\Daily Student Report\obj\Debug\netcoreapp3.1\Daily Student Report.csproj.AssemblyReference.cache
+C:\Users\malhi\OneDrive\Documents\GitHub\Daily Student Report\Daily Student Report\obj\Debug\netcoreapp3.1\Daily Student Report.AssemblyInfoInputs.cache
+C:\Users\malhi\OneDrive\Documents\GitHub\Daily Student Report\Daily Student Report\obj\Debug\netcoreapp3.1\Daily Student Report.AssemblyInfo.cs
+C:\Users\malhi\OneDrive\Documents\GitHub\Daily Student Report\Daily Student Report\obj\Debug\netcoreapp3.1\Daily Student Report.csproj.CoreCompileInputs.cache
+C:\Users\malhi\OneDrive\Documents\GitHub\Daily Student Report\Daily Student Report\obj\Debug\netcoreapp3.1\Daily Student Report.dll
+C:\Users\malhi\OneDrive\Documents\GitHub\Daily Student Report\Daily Student Report\obj\Debug\netcoreapp3.1\Daily Student Report.pdb
+C:\Users\malhi\OneDrive\Documents\GitHub\Daily Student Report\Daily Student Report\obj\Debug\netcoreapp3.1\Daily Student Report.genruntimeconfig.cache
